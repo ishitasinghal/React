@@ -1,0 +1,10 @@
+body { 
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(0, 255, 191);
+    height: 100px;
+    width: 100%;
+    opacity: 0.8;
+}
