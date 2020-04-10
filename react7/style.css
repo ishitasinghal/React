@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #333;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maincont {
+    background-image: url("paper.gif");
+    height: 10px;
+    width: 100%;
+}
+
+.para {
+    font-family: "Lucida Console", Courier, monospace;
+    background-color: lightslategrey;
+    opacity: 0.8;
+    height: 150px;
+}
