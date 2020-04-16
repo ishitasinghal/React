@@ -11,8 +11,12 @@ import ReactDom from "react-dom"
 import TodoItem from "./TodoItem"
 
 function App() {
+    const style = {
+        backgroundImage: url('https://miro.medium.com/max/5000/1*QqoS6WsjG6WSr9-BFFQhbA.jpeg'),height:"200px"
+    }
+    
     return (
-        <div className = "todo-list">
+        <div style = {style} className = "todo-list">
            <TodoItem />
            <TodoItem />
            <TodoItem />
