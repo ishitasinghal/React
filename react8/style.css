@@ -1,5 +1,5 @@
 body { 
-    background-color: whitesmoke
+    background-image: url("https://miro.medium.com/max/5000/1*QqoS6WsjG6WSr9-BFFQhbA.jpeg")
 }
 
 .todo-list {
@@ -25,6 +25,7 @@ body {
 }
 
 .todo-item {
+    /* background-Image: url('https://miro.medium.com/max/5000/1*QqoS6WsjG6WSr9-BFFQhbA.jpeg');height:200px; */
     display: flex;
     justify-content: flex-start;
     align-items: center;
